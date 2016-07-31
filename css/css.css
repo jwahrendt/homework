@@ -196,6 +196,12 @@ div.clear{ /* quick fix for float related issues */
 
 /* make it squishy */
 
+@media screen and (min-width: 1200px){
+	#product-options {
+		padding:px;
+	}
+}
+
 @media screen and (max-width: 600px){
 	#product-title{
 		font-size:1em;
