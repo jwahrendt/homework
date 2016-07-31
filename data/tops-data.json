@@ -1,0 +1,65 @@
+[
+  {
+    "style": "Men's White crew neck shirt",
+    "description": "Short sleeve, 100% cotton",
+    "size": "X-Large",
+    "price": 10.99,
+    "quantity": 22
+  },
+  {
+    "style": "Men's Black crew neck shirt",
+    "description": "Short sleeve, 100% cotton",
+    "size": "X-Large",
+    "price": 10.99,
+    "quantity": 17
+  },
+  {
+    "style": "Men's Gray crew neck shirt",
+    "description": "Short sleeve, 100% cotton",
+    "size": "X-Large",
+    "price": 10.99,
+    "quantity": 11
+  },
+  {
+    "style": "Men's White crew neck shirt",
+    "description": "Short sleeve, 100% cotton",
+    "size": "Large",
+    "price": 9.99,
+    "quantity": 7
+  },
+  {
+    "style": "Men's Black crew neck shirt",
+    "description": "Short sleeve, 100% cotton",
+    "size": "Large",
+    "price": 9.99,
+    "quantity": 6
+  },
+  {
+    "style": "Men's Gray crew neck shirt",
+    "description": "Short sleeve, 100% cotton",
+    "size": "Large",
+    "price": 9.99,
+    "quantity": 11
+  },
+  {
+    "style": "Men's White crew neck shirt",
+    "description": "Short sleeve, 100% cotton",
+    "size": "Medium",
+    "price": 9.99,
+    "quantity": 5
+  },
+  {
+    "style": "Men's Black crew neck shirt",
+    "description": "Short sleeve, 100% cotton",
+    "size": "Medium",
+    "price": 9.99,
+    "quantity": 5
+  },
+  {
+    "style": "Men's Gray crew neck shirt",
+    "description": "Short sleeve, 100% cotton",
+    "size": "Medium",
+    "price": 9.99,
+    "quantity": 2
+  }
+]

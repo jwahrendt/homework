@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Best Store Ever</title>
+		
+		<link rel="stylesheet" href="css/css.css">
+		<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+	</head>
+	<body>
+		<noscript>
+			<h2>This page requires JavaScript</h2>
+			<p>Please enable JavaScript to view the whole experience</p>
+		</noscript>
+		
+		<section id="product-info">
+			<h2 id="product-title">Product Details: <span id="product-name"></span></h2>
+			<div id="product-left" class="product-section">
+				<div id="product-price">
+				</div>
+				<div id="product-related">
+					<p>Related items:</p>
+					<div id="related-items">
+						<div class="socks"><img src="images/sprite.jpg"><p>Men's 3-pack socks</p></div>
+						<div class="hat"><img src="images/sprite.jpg"><p>Sports cap</p></div>
+						<div class="sunglasses"><img src="images/sprite.jpg"><p>Sunglasses</p></div>
+					</div>
+				</div>
+			</div>
+			<div id="product-center" class="product-section">
+			</div>
+			<div id="product-right" class="product-section">
+				<div id="product-options">
+					<h3>Select Options</h3>
+					<form action="#">
+						<p>Size</p>
+						<select id="size">
+						</select>
+						<p>Quantity</p>
+						<select id="quantity">
+							<option value="default">Please choose a size</option>
+						</select>
+						<input class="submit" type="submit" value="Add to Cart">
+						<div class="clear">
+					</form>
+				</div>
+			</div>
+		</section>
+		<div class="clear"></div>
+		
+		<section id="more-items">
+			<h2>More Items</h2>
+			<ul id="categories">
+				<li id="tops" class="active">Tops <span class="total"></span></li>
+				<li id="bottoms">Bottoms <span class="total"></span></li>
+				<li id="shoes">Shoes <span class="total"></span></li>
+			</ul>
+			<!-- Ditching table for better responsive support
+			<table>
+				<tr>
+					<th>Style</th><th>Description</th><th>Size</th><th>Price</th><th># Available</th>
+				</tr>
+			</table>
+			-->
+			<div id="items-table">
+				<div id="table-headings">
+					<h4 class="table-style">Style</h4><h4 class="table-description">Description</h4><h4 class="table-size">Size</h4><h4 class="table-price">Price</h4><h4 class="table-available"># Available</h4>
+					<div class="clear"></div>
+				</div>
+				<div id="items-list">
+					<!-- Populate Dynamically -->
+				</div>
+				<div id="table-nav">
+				</div>
+			</div>
+		</section>
+	<script src="js/js.js"></script>
+	</body>
+</html>

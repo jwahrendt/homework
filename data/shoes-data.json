@@ -1,0 +1,30 @@
+[
+  {
+    "style": "Men's Van's",
+    "description": "Checkered Van's slip-ons",
+    "size": 12,
+    "price": 19.99,
+    "quantity": 5
+  },
+  {
+    "style": "Men's Van's",
+    "description": "Checkered Van's slip-ons",
+    "size": 11,
+    "price": 19.99,
+    "quantity": 12
+  },
+  {
+    "style": "Men's Van's",
+    "description": "Checkered Van's slip-ons",
+    "size": 10,
+    "price": 19.99,
+    "quantity": 10
+  },
+  {
+    "style": "Men's Van's",
+    "description": "Checkered Van's slip-ons",
+    "size": 9,
+    "price": 19.99,
+    "quantity": 5
+  }
+]

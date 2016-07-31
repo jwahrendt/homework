@@ -1,0 +1,30 @@
+[
+  {
+    "style": "Men's blue jeans",
+    "description": "Straight leg blue jeans",
+    "size": 36,
+    "price": 39.99,
+    "quantity": 5
+  },
+  {
+    "style": "Men's blue jeans",
+    "description": "Straight leg blue jeans",
+    "size": 34,
+    "price": 39.99,
+    "quantity": 5
+  },
+  {
+    "style": "Men's blue jeans",
+    "description": "Straight leg blue jeans",
+    "size": 32,
+    "price": 39.99,
+    "quantity": 9
+  },
+  {
+    "style": "Men's blue jeans",
+    "description": "Straight leg blue jeans",
+    "size": 30,
+    "price": 39.99,
+    "quantity": 10
+  }
+]
